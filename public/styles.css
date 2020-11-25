@@ -47,12 +47,45 @@ header {
     color: var(--primary-color);
 }
 
-.links a:hover::after {
+.links a::after {
     content: "";
-    width: 100%;
+    width: 0;
     height: 2px;
     background-color: var(--primary-color);
     position: absolute;
     left: 0;
     bottom: -4px;
+}
+
+.links a:hover::after {
+    width: 100%;
+    transition: width 700ms ease-in-out;
+}
+
+/*  == CARD == */
+
+.card {
+    background-color: white;
+    width: 800px;
+    height: 400px;
+
+    margin: 45px auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    box-shadow: 4px 4px 10px 4px black;
+    animation-name: up 200ms ease-out;
+}
+
+@keyframes up {
+    from {
+        opacity: 0;
+        transform: translateY(15px);
+        
+    }
+    to {
+        opacity: 1;
+
+    }
+
 }

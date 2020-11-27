@@ -1,1 +1,12 @@
-{"avatar_url":"https://google.com","name":"André","birth":"1984-07-12","gender":"M","services":"Crossfit"}
+{
+  "instructors": [
+    {
+      "avatar_url": "https://google.com",
+      "name": "Mayra",
+      "birth": "1999-11-04",
+      "gender": "F",
+      "services": "Musculação",
+      "created_at": 1606474476234
+    }
+  ]
+}

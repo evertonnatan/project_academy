@@ -1,12 +1,22 @@
 {
   "instructors": [
     {
+      "id": 1,
+      "name": "Átila",
       "avatar_url": "https://google.com",
-      "name": "Mayra",
-      "birth": "1999-11-04",
-      "gender": "F",
+      "birth": 541900800000,
+      "gender": "M",
       "services": "Musculação",
-      "created_at": 1606474476234
+      "created_at": 1606476000917
+    },
+    {
+      "id": 2,
+      "name": "Mayra",
+      "avatar_url": "https://youtube.com",
+      "birth": 976060800000,
+      "gender": "F",
+      "services": "Crossfit, Musculação",
+      "created_at": 1606476047602
     }
   ]
 }

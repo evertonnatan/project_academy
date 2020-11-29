@@ -17,6 +17,24 @@
       "gender": "F",
       "services": "Crossfit, Musculação",
       "created_at": 1606476047602
+    },
+    {
+      "id": 3,
+      "name": "Dante",
+      "avatar_url": "https://www.gmail.com",
+      "birth": 975369600000,
+      "gender": "M",
+      "services": "Parkour",
+      "created_at": 1606684406863
+    },
+    {
+      "id": 4,
+      "name": "Kratos",
+      "avatar_url": "https://facebook.com",
+      "birth": 975542400000,
+      "gender": "M",
+      "services": "Musculação, Natação",
+      "created_at": 1606684495841
     }
   ]
 }

@@ -1,15 +1,6 @@
 {
   "instructors": [
     {
-      "id": "1",
-      "name": "Átila Lamarino",
-      "avatar_url": "https://google.com",
-      "birth": 592012800000,
-      "gender": "M",
-      "services": "Musculação, Biologia",
-      "created_at": 1606476000917
-    },
-    {
       "id": "2",
       "name": "Aquiles de Tróia",
       "avatar_url": "https://youtube.com",

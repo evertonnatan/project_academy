@@ -1,40 +1,13 @@
 {
   "instructors": [
     {
-      "id": "2",
+      "id": 2,
       "name": "Aquiles de Tróia",
-      "avatar_url": "https://youtube.com",
+      "avatar_url": "https://images.unsplash.com/photo-1532384305128-54c7ac0d7139?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3w5ODQ0MjE2fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
       "birth": 677376000000,
       "gender": "M",
       "services": "Crossfit, Musculação, Matar troianos",
       "created_at": 1606476047602
-    },
-    {
-      "id": 3,
-      "name": "Dante",
-      "avatar_url": "https://www.gmail.com",
-      "birth": 975369600000,
-      "gender": "M",
-      "services": "Parkour",
-      "created_at": 1606684406863
-    },
-    {
-      "id": "4",
-      "name": "Kratos God",
-      "avatar_url": "https://source.unsplash.com/collection/2315391/500x500",
-      "birth": 975542400000,
-      "gender": "M",
-      "services": "Musculação, Natação",
-      "created_at": 1606684495841
-    },
-    {
-      "id": 5,
-      "name": "Dante",
-      "avatar_url": "https://www.gmail.com",
-      "birth": 962755200000,
-      "gender": "M",
-      "services": "Parkour",
-      "created_at": 1606778351365
     }
   ]
 }
